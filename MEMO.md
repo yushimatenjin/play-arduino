@@ -23,3 +23,14 @@ Arduino > ファイル > スケッチ例 > Firmata > FirmataStandard > 書き込
 GitHub https://github.com/rwaldron/johnny-five
 参考 https://liginc.co.jp/249279
 ```
+
+
+## 用語集
+
+5V 5Voltの電源に接続
+VCC 電源プラス側に接続 
+GND 電源のマイナス側
+FG　ケース化シャーシに接続
+CLK クロック信号
+
+https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AF#%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%9B%9E%E8%B7%AF
