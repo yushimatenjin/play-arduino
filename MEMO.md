@@ -32,6 +32,7 @@ VCC 電源プラス側に接続  LEDの長い方
 GND 電源のマイナス側 | LEDの短い方
 FG　ケース化シャーシに接続
 CLK クロック信号
+https://mono-wireless.com/jp/products/TWE-APPS/App_Twelite/TWELITE%20DIP%E8%AA%AC%E6%98%8E%E6%9B%B8.pdf
 ```
 
 https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AF#%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%9B%9E%E8%B7%AF
