@@ -36,3 +36,9 @@ https://mono-wireless.com/jp/products/TWE-APPS/App_Twelite/TWELITE%20DIP%E8%AA%A
 ```
 
 https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AF#%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%9B%9E%E8%B7%AF
+
+
+##　メモ
+```
+マイコン・モジュールははんだ付けしないと動かない（おそらく）
+```
